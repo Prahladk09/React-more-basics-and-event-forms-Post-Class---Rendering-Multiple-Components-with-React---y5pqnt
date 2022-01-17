@@ -4,7 +4,6 @@ import '../styles/App.css';
 const App = () => {
   return (
     <div id="main">
-      <div id="main">
       <div data-ns-test = "project-name">
         My First React Project
       </div>
